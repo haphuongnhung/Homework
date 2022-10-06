@@ -1,0 +1,10 @@
+Question 4:
+Answer: B. Test cases for component testing are usually derived from component
+specifications, design specifications, or data models, whereas test cases for
+system testing are usually derived from requirement specifications or use
+cases
+Question 5:
+Answer: C. It is possible to perform functional, non-functional and white-box testing at any
+test level
+Question 6:
+Answer: C. 1 = component test; 2 = acceptance test; 3 = integration test; 4 = system test
